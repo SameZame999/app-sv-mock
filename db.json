@@ -1,7 +1,13 @@
 {
-  "articles": [
-    { "id": 1, "title": "json-server", "author": "typicode"},
-    { "id": 2, "title": "faker.js", "author": "Marak"}
-  ],
-  "profile": { "name": "typicode" }
+  "login":
+  {
+     "id": 1,
+     "result_code": "0",
+     "member_id": "516D24EF-DC92-4205-B0EF-9CECCE4E8780"
+  },
+
+  "verify_token":
+  {
+     "name": "typicode"
+  }
 }
