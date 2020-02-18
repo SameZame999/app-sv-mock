@@ -20,5 +20,11 @@
   "archive_event":
   {
      "result_code": "0"
+  },
+
+  "onetimetoken":
+  {
+     "result_code": "0",
+     "onetime_token": "BB29072D-AF3C-4100-AF67-35F7C6CC3D11"
   }
 }
